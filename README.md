@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/bosirullah/four-card-feature-section](https://your-solution-url.com)
+- Live Site URL: [https://bosirullah.github.io/four-card-feature-section/](https://your-live-site-url.com)
 
 ## My process
 
@@ -38,5 +38,5 @@ size reponsiveness.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://github.com/bosirullah/four-card-feature-section](https://www.your-site.com)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/bosirullah](https://www.frontendmentor.io/profile/yourusername)
